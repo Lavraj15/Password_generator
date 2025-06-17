@@ -1,12 +1,51 @@
-# React + Vite
+🔐 Password Generator App A clean, modern, and fully responsive Password Generator built using React and Tailwind CSS. Customize your password length, include numbers or special characters, and copy it with a single click.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features 🎨 Beautiful, centered UI using Tailwind CSS
 
-Currently, two official plugins are available:
+🔁 One-click regenerate password button
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔢 Control over password length (6–32 characters)
 
-## Expanding the ESLint configuration
+🔠 Toggle to include numbers and special characters
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👁️ Show/Hide password toggle
+
+📋 Copy to clipboard functionality
+
+⚡ Auto-generates password on every change
+
+💻 Fully responsive design for all screen sizes
+
+📸 Preview
+
+🛠️ Built With React.js
+
+Tailwind CSS
+
+React Icons (for icons)
+
+📂 Installation & Setup bash Copy Edit
+
+Clone the repository
+git clone https://github.com/Lavraj15/Password_generator.git
+
+Navigate into the project directory
+cd Password-Generator
+
+Install dependencies
+npm install
+
+Run the development server
+npm run dev 🌐 Live Demo Coming soon on Vercel or Netlify! (Let me know, I can help you deploy 🚀)
+
+🤝 Contributing Feel free to fork this repo and create pull requests if you'd like to:
+
+Improve the UI
+
+Add animations
+
+Add new features like strength meters, themes, etc.
+
+📄 License This project is open-source and available under the MIT License.
+
+🙋‍♂️ Author Lav Raj 💼 GitHub: @Lavraj15
